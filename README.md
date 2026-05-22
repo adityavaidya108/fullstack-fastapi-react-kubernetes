@@ -1,5 +1,3 @@
-## Authors: Aditya Samir Vaidya[G01501989], Aahan Jain[G015022443]
-
 # 🚀 Kubernetes Deployment on AWS EC2 with Rancher, Docker & Jenkins
 
 This guide walks you through **deploying a simple static web app (HTML form)** on a Kubernetes cluster running on an **EC2 instance**, with **Rancher** as the cluster manager, **Docker** for containerization, and **Jenkins** for automation.
